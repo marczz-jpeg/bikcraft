@@ -61,6 +61,7 @@
   grid-template-columns: auto 1fr auto;
   align-items: center;
   border: 1px solid var(--cor-10);
+  transition: 0.3s;
 }
 
 .orcamento-produto input:checked + label {

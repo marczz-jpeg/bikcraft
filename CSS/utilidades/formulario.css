@@ -37,6 +37,7 @@
   border-color: var(--cor-p1);
   background: var(--cor-0);
   box-shadow: 0 0 0 2px #fea;
+  transition: 0.4s;
 }
 
 @media (max-width: 600px) {
